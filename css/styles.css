@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+}
+
+.container{
+    position:relative;
+    text-align: center;
+    color: white;
+}
+
+.container-fluid{
+    position:relative;
+    color: white;
+    width:800px;
+}
+
+.centered{
+    position: absolute;
+    top: 200%;
+    left: 75%;
+}
+
+.april h5{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    border: 2px solid #ddd;
+    background-color: rgb(245, 245, 245);
+    padding:10px 70px 10px 10px;
+    }
+
+form input{
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 25px;  
+
+.button{
+    background-color: goldenrod;
+    font-size: 90%;
+}
